@@ -24,7 +24,6 @@ int placarComputador2 = 0;
 int modo;
 
 int menu(){
-
 while (true){
   std::cout<< "Escolha o modo de jogo" << '\n';
   std::cout<< "0 - Regras" << '\n';
@@ -243,14 +242,10 @@ while (running){
 
 
 int main(){
-  std::cout << "Bem vindo ao jogo Pedra, Papel ou Tesoura, ou Jokenpô ";
-  std::random_device rd;
-  std::mt19937 gen(rd());
-  std::uniform_int_distribution<int> dist(1, 3);
+ std::cout << "Bem vindo ao jogo Pedra, Papel ou Tesoura, ou Jokenpô ";
  // Roda o jogo
   run();
  // Quando o jogo termina agradece por ter jogado
  std::cout << "Obrigado por jogar o jogo";
  return 0;
 }
-
