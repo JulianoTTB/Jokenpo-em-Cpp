@@ -25,6 +25,7 @@ Imagem das regras do jogo:
 Imagem do modo PVP:
 
 ![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/60eb3068-0fab-40fd-86bd-9938614264ae)
+
 obs: é para ser "Faça ..."
 
 Imagem da opção de sair e caso queira sair:
