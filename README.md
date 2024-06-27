@@ -15,6 +15,7 @@ Possui 3 modos:
 3 - EVE (Computador x Computador)
 
 Há a opção de ver as regras ao iniciar o jogo
+
 obs: Não consegui resolver o problema do terminal não reconhecer os acentos nas palavras, quando consegui resolver irei atualizar o código
 
 Imagem do início do jogo:
