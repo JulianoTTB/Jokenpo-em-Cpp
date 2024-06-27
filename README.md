@@ -1,6 +1,6 @@
 # Jokenpo-em-Cpp
 Pedra, Papel ou Tesoura ( jokenpô) em c++ no terminal
-Gnha quem colocar o elemento que ganha do oponente.
+Ganha quem colocar o elemento que ganha do oponente.
 Papel ganha de pedra
 Pedra ganha de tesoura
 Tesoura ganha de papel
