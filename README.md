@@ -7,8 +7,11 @@ Tesoura ganha de papel
 
 
 Possui 3 modos:
+
 1 - PVP (Jogador x Jogador)
+
 2 - PVE (Jogador x Computador)
+
 3 - EVE (Computador x Computador)
 
 Há a opção de ver as regras ao iniciar o jogo
