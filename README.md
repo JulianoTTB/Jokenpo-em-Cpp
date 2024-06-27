@@ -1,8 +1,12 @@
 # Jokenpo-em-Cpp
 Pedra, Papel ou Tesoura ( jokenpô) em c++ no terminal
+
 Ganha quem colocar o elemento que ganha do oponente.
+
 Papel ganha de pedra
+
 Pedra ganha de tesoura
+
 Tesoura ganha de papel
 
 
@@ -50,4 +54,4 @@ Imagem do modo EVE:
 
 ![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/c6b74d6b-d38a-408b-90f1-3e766c2a44dc)
 
-Esse é o meu primeiro jogo em c++, então espero que gostem e não liguem muito para esse problema dos acentos não serem reconhecidos.
+Esse é o meu primeiro jogo em c++.
