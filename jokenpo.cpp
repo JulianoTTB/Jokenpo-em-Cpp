@@ -1,4 +1,5 @@
 #include <iostream>
+#include <Windows.h>
 #include <string>
 #include <random>
 bool running = true;
@@ -242,6 +243,7 @@ while (running){
 
 
 int main(){
+  SetConsoleOutputCP(CP_UTF8);
  std::cout << "Bem vindo ao jogo Pedra, Papel ou Tesoura, ou Jokenpô ";
  // Roda o jogo
   run();
@@ -249,3 +251,4 @@ int main(){
  std::cout << "Obrigado por jogar o jogo";
  return 0;
 }
+
