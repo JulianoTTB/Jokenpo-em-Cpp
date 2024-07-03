@@ -20,38 +20,33 @@ Possui 3 modos:
 
 Há a opção de ver as regras ao iniciar o jogo
 
-obs: Não consegui resolver o problema do terminal não reconhecer os acentos nas palavras, quando consegui resolver irei atualizar o código
 
 Imagem do início do jogo:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/61268789-3741-4340-a661-692810af288d)
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/aacbdeab-3a8b-4d41-94be-2dd130121301)
 
 Imagem das regras do jogo:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/71fd07e9-a00d-42e7-875f-4bd3cc122de7)
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/dd46630e-2afd-486c-8b2b-c1f6eccdf4a5)
 
 Imagem do modo PVP:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/60eb3068-0fab-40fd-86bd-9938614264ae)
-
-obs: é para ser "Faça ..."
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/9f412c28-84e1-4684-8337-c8c84cf26382)
 
 Imagem da opção de sair e caso queira sair:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/b1a67019-c3b9-4b4f-a783-4ec5feaaede3)
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/7037b1b9-4e8c-471f-930b-03222db373a9)
 
 Imagem de comando inválido:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/54c79f49-fc56-4d2b-97ac-8f779250133e)
-
-obs: é pra ser "Comando inválido"
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/b7aca009-d123-43e7-b043-4816e0ca34e3)
 
 Imagem do modo PVE:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/0ea8f36f-4069-45a9-b12d-c03c83762b8b)
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/49a7fb09-0d78-4eb7-bdca-3ec12eae700e)
 
 Imagem do modo EVE:
 
-![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/c6b74d6b-d38a-408b-90f1-3e766c2a44dc)
+![image](https://github.com/JulianoTTB/Jokenpo-em-Cpp/assets/165704806/50ddbad6-bb09-46f4-9ada-9707777476ae)
 
 Esse é o meu primeiro jogo em c++.
